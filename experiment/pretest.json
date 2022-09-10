@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The method which is Not suitable for the determination of In-situ density of natural soil is ________ .",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sand replacement",
+        "b": "Oven dry",
+        "c": "Core cutter",
+        "d": "Displacement of water"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Core cutter method is suitable for _____.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Soft soil",
+        "b": "Hard soil",
+        "c": "Cohesive soil",
+        "d": "Adhesive soil"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The soil dry density can be defined as ",
+      "answers": {
+        "a": "The ratio of the weight of soil to the volume of soil",
+        "b": "The ratio of the weight of solids to volume of soil",
+        "c": "The ratio of unit weight of soil to unit weight of water",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The core cutter method of determining the dry density of  soil is the in-situ test.",
+      "answers": {
+        "a": "False",
+        "b": "True"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The codebook referred for conducting the core cutter method is",
+      "answers": {
+        "a": "IS : 2720 part 28 1975",
+        "b": "IS : 2720 part 27 1975",
+        "c": "IS : 2720 part 26 1975",
+        "d": "IS : 2720 part 29 1975"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
