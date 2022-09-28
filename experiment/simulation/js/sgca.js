@@ -5,6 +5,7 @@ var temp = 105;
 var h1 = 0, h2 = 0, h3 = 0, h4 = 0;
 
 let soilVolume=1327.32;
+let myInt=0;
 var p = 0;
 var dataset = [[42, 25, 42.75, 40.98, 1.77, 15.98, 11.07, 1, 1.472],
 [27, 30, 57.04, 52.85, 4.19, 22.85, 18.34, 2, 1.381],
@@ -71,15 +72,26 @@ function navNext() {
 	magic();
 }
 
+let arrowBlinkCount=0;
 function animatearrow() {
+	
 	if (document.getElementById('arrow1').style.visibility == "hidden")
+	{
+		console.log(arrowBlinkCount);
+		arrowBlinkCount++;
 		document.getElementById('arrow1').style.visibility = "visible";
+	}
 	else
+	{
+		console.log(arrowBlinkCount);
+		arrowBlinkCount++;
 		document.getElementById('arrow1').style.visibility = "hidden";
+	}
 }
 
 function blinkArrow(left, t, height, degg) 
 {
+	// console.log(myInt);
 	myInt = setInterval(function () { animatearrow(); }, 500);
 	document.getElementById('arrow1').style = "visibility:visible ;position:absolute; left:" + left + "px; top: " + t + "px; height:" + height + "px; z-index: 10;";
 	document.getElementById("arrow1").style.WebkitTransform = "rotate(" + degg + "deg)";
@@ -184,6 +196,8 @@ function magic()
 	}
 	else if(simsubscreennum == 7) 
 	{
+		document.getElementById("mak1").style.visibility = "hidden";
+		document.getElementById("mak2").style.visibility = "hidden";
 		document.getElementById("p2-1").innerHTML = "0.004";
 		document.getElementById("2-0").style.backgroundColor = "lightgrey";
 		document.getElementById('can21').style.visibility = "visible";
@@ -367,6 +381,8 @@ function magic()
 	}
 	else if(simsubscreennum == 14) 
 	{
+		document.getElementById("mak1").style.visibility = "hidden";
+		document.getElementById("mak2").style.visibility = "hidden";
 		document.getElementById('13-2').style.visibility = "hidden";
 		document.getElementById('13-4').style.visibility = "hidden";
 		generate_table();
@@ -982,4 +998,6 @@ function refresh() {
 	document.getElementById('p3-1').innerHTML = "";
 	document.getElementById('p4-1').innerHTML = "";
 	document.getElementById('p5-1').innerHTML = "";
+	document.getElementById("mak1").style.visibility = "hidden";
+		document.getElementById("mak2").style.visibility = "hidden";
 }
