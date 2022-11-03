@@ -47,7 +47,7 @@
         "a": "Correct answer. Since the soil is dry, it will be in the ratio of weight of soil to the volume of soil.",
         "b": "Soil dry density is not the ratio of weight of solids, it is the weight and volume of soil.",
         "c": "The ratio is not in unit weight, it is weight and volume of soil.",
-        "d": "The correct answer is "The ratio of the weight of soil to the volume of soil". As one of the option given above is correct, option 'none of the above' is incorrect."
+        "d": "The correct answer is 'The ratio of the weight of soil to the volume of soil'. As one of the option given above is correct, option 'none of the above' is incorrect."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
