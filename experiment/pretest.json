@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The method which is not suitable for the determination of In-situ density of natural soil is ________ .",
+      "question": "The method which is not suitable for the determination of In-situ density of natural soil is ________________ .",
       "answers": {
         "a": "Sand replacement",
         "b": "Oven dry",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Core cutter method is suitable for _____.",
+      "question": "Core cutter method is suitable for ________________.",
       "answers": {
         "a": "Soft soil",
         "b": "Hard soil",
