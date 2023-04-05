@@ -15,7 +15,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Height of the core cutter used in the experiment is ______.",
+      "question": "Height of the core cutter used in the experiment is ________________.",
       "answers": {
         "a": "15cm",
         "b": "16cm",
@@ -32,7 +32,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "High percentage of voids in soil sample indicates ________ compaction of soil.",
+      "question": "High percentage of voids in soil sample indicates ________________ compaction of soil.",
       "answers": {
         "a": "Good",
         "b": "Poor",
@@ -49,7 +49,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The optimal moisture content is ______.",
+      "question": "The optimal moisture content is ________________.",
       "answers": {
         "a": "20 to 24",
         "b": "15 to 20",
@@ -66,7 +66,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Density ratio is defined as _________________________________.",
+      "question": "Density ratio is defined as ________________.",
       "answers": {
         "a": "Dry density to field density",
         "b": "Maximum dry density to percentage ratio of dry density of soil",

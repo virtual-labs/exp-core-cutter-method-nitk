@@ -1,9 +1,9 @@
 ##### These procedure steps will be followed on the simulator
 
-1. Click on the Dry density of soil by core cutter method experiment simulation, a new window will open as shown below. Click on the description text box to view the definitions. <br>
+1. Click on the simulation button a new window will open as shown below. Hover on the description to view the definitions. <br>
 <img src="images/1.png"><br>
 
-2. Click on the measuring scale and Vernier calliper and measure the height and weight of the core cutter respectively and calculate the volume of the core cutter. Then click on the Next button at the bottom right corner to move to the next step.<br>
+2. Click on the measuring scale and then on the vernier calliper to measure the height and weight of the core cutter respectively. Then calculate the volume of the core cutter and click on the "Next Button" at the bottom right corner to move to the next step.<br>
 <img src="images/2.png"><br><br>
 <img src="images/3.png"><br>
 
@@ -21,16 +21,16 @@
 6. Click on the core cutter to remove it from the soil without disturbing the sample collected within it.<br>
 <img src="images/10.png"><br>
 
-7. Measure the weight of the core cutter along with the soil sample and click on the next button.<br>
+7. Measure the weight of the core cutter along with the soil sample and click on the "Next Button".<br>
 <img src="images/11.png"><br>
 
-8. Calculate the value of the bulk density of the soil sample using the formula and click on the Next button.<br>
+8. Calculate the value of the bulk density of the soil sample using the formula and click on the "Next Button".<br>
 <img src="images/12.png"><br>
 
-9. Click on the empty container to keep it over the weighing balance to record its weight, and click on the Next button.<br>
+9. Click on the empty container to keep it over the weighing balance to record its weight, and click on the "Next Button".<br>
 <img src="images/13.png"><br>
 
-10. Click on the core cutter to remove all the soil collected and put a sample of wet soil into the empty container and determine its weight. <br>
+10. Click on the core cutter to remove all the soil collected, then put a sample of wet soil into the empty container and determine its weight. <br>
 <img src="images/14.png"><br><br>
 <img src="images/15.png"><br>
 
