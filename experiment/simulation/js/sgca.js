@@ -424,9 +424,9 @@ function step1()
 							document.getElementById('1-2').style.visibility = "hidden";
 							document.getElementById('1-3').style.visibility = "hidden";
 							document.getElementById('a11').style.visibility = "hidden";
-							document.getElementById('can1').innerHTML = "Internal height of the core cutter, D= 10cm";
+							document.getElementById('can1').innerHTML = "Internal height of the core cutter, H = 10cm";
 							document.getElementById("can1").style = "position:absolute; left: 28px; top:110px;";
-							document.getElementById('can11').innerHTML = "Internal diameter of the core cutter, H= 13cm";
+							document.getElementById('can11').innerHTML = "Internal diameter of the core cutter, D = 13cm";
 							document.getElementById("can11").style = "position:absolute; left: 28px; top:60px;";
 							document.getElementById('cap1').style.visibility = "visible";
 							document.getElementById('cap2').style.visibility = "visible";
